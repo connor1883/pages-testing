@@ -20,7 +20,8 @@ For $I = 1,...,N$, ${X_I}$ is the value of $X$ for elements $I$.
 
 The **_population mean of a QVAR_** $X$ is represented by the symbol ${\mu _X}$ , and defined as
 
-${\mu _X} = \frac{{\sum\limits_{I = 1}^N {{X_I}} }}{N}$              
+${\mu _X} = \frac{\sum\limits_{I = 1}^N {{X_I}}}{N}$              
+
 
 <ins>Definition: A deviation from the population mean of a QVAR for a given element<ins>
 
