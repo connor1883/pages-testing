@@ -1,0 +1,20 @@
+# _config.yml
+title: Testing GitHub-Pages
+url: "https://connor1883.github.io/pages-testing"
+
+collections:
+  content:
+    output: true
+    permalink: /:collection/:path/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
