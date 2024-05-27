@@ -37,9 +37,9 @@ A ***deviation from the population*** ***mean of a QVAR*** \$X\$
 ***for a given element*** is the difference between the value of \$X\$
 for the given element and the population mean of \$X.\$ The deviation
 from the population mean of \$X\$ for element \$I\$is represented by
-the symbol \${D\_{ {X_I} }}\$:
+the symbol \${D\_{ {X_I} } }\$:
 
-\${D\_{ {X_I} }} = {X_I} - {\mu \_X}\$
+\${D\_{ {X_I} } } = {X_I} - {\mu \_X}\$
 
 [Fact]{.underline}
 
@@ -59,7 +59,7 @@ More formally: Given a finite population consisting of any number
 \$N\$ of elements, and given any values
 \${X_1},\,{X_2},\,\...,\,{X_N}\$ of a QVAR \$X\$,
 
-> \$\sum\limits\_{I = 1}\^N { {D\_{ {X_I} }} } = 0\$
+> \$\sum\limits\_{I = 1}\^N { {D\_{ {X_I} } } } = 0\$
 
 or equivalently,
 
@@ -71,7 +71,7 @@ or equivalently,
 We can prove this equality through several steps of algebra. Every step
 is just a rearrangement of terms.
 
-> \$$\beginarrayl\sum\limits\_{I = 1}\^N { {D\_{ X_I }} } =
+> \$$\beginarrayl\sum\limits\_{I = 1}\^N { {D\_{ X_I } } } =
 > \sum\limits\_{I = 1}\^N {\left( { X_I - {\mu \_X} } \right)}
 > \\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = \sum\limits\_{I
 > = 1}\^N { X_I } - \sum\limits\_{I = 1}\^N { {\mu \_X} }
@@ -97,7 +97,7 @@ represented by the symbol \$$MAD_X\$$, and defined as
 The ***population variance*** ***of a QVAR*** \$X\$ is represented by
 the symbol \$$\sigma \_X\^2\$$, and defined as
 
-\$$\sigma \_X\^2 = \frac{ {\sum\limits\_{I = 1}\^N { {{\left(
+\$$\sigma \_X\^2 = \frac{ {\sum\limits\_{I = 1}\^N { { {\left(
 { X_I - {\mu \_X} } \right)}\^2} } } }N\$$
 
 [Definition: The population standard deviation of a QVAR]{.underline}
@@ -144,9 +144,9 @@ A ***deviation from the sample mean of a QVAR*** \$X\$ ***for a given
 observation*** is the difference between the value of \$X\$ for the
 given observation and the population mean of \$X\$. The deviation from
 the sample mean of \$Q\$ for observation \$i\$ is represented by the
-symbol \${d\_{ {X_i} }}\$:
+symbol \${d\_{ {X_i} } }\$:
 
-\${d\_{ {X_i} }} = {x_i} - \bar x\$
+\${d\_{ {X_i} } } = {x_i} - \bar x\$
 
 [Fact]{.underline}
 
@@ -165,14 +165,14 @@ More formally: Given a sample consisting of any number \$n\$ of
 observations, and given any values \${x_1},\,{x_2},\,\...,\,{x_n}\$
 of a QVAR \$X\$,
 
-> \$\sum\limits\_{i = 1}\^n { {d\_{ {X_i} }} } = 0\$
+> \$\sum\limits\_{i = 1}\^n { {d\_{ {X_i} } } } = 0\$
 
 [Proof of this fact]{.underline}
 
 We can prove this equality through several steps of algebra. Every step
 is just a rearrangement of terms.
 
-> \$$\beginarrayl\sum\limits\_{i = 1}\^n { {d\_{ X_i }} } =
+> \$$\beginarrayl\sum\limits\_{i = 1}\^n { {d\_{ X_i } } } =
 > \sum\limits\_{i = 1}\^n {\left( { x_i - \bar x} \right)}
 > \\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = \sum\limits\_{i
 > = 1}\^n { x_i } - \sum\limits\_{i = 1}\^n {\bar x}
@@ -196,7 +196,7 @@ x} \right\|} } }{ {n - 1} }\$$
 The ***sample variance*** ***of a QVAR*** \$X\$ is represented by the
 symbol \$$s_X\^2\$$, and defined as
 
-\$$s_X\^2 = \frac{ {\sum\limits\_{i = 1}\^n { {{\left( { x_i - \bar
+\$$s_X\^2 = \frac{ {\sum\limits\_{i = 1}\^n { { {\left( { x_i - \bar
 x} \right)}\^2} } } }{ {n - 1} }\$$
 
 [Definition: The sample standard deviation of a QVAR]{.underline}
