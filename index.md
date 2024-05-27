@@ -12,7 +12,7 @@ Econ 204 // Spring 2024
 
 **I. QUANTITATIVE VARIABLES IN POPULATIONS**
 
-[Notation]{.underline}
+<u>Notation<u>
 
 A ***finite population*** consists of $N$ elements, labelled $I =
 1,\...,N$, where $N$ is a real number.
@@ -22,15 +22,15 @@ $X$ is the name of a quantitative variable (QVAR).
 For $I = 1,\...,N$, ${X_I}$ is the value of $X$ for elements
 $I$.
 
-[Definition: The population mean of a QVAR]{.underline}
+<u>Definition: The population mean of a QVAR<u>
 
 The ***population mean of a QVAR*** $X$ is represented by the symbol
 $\mu_X$ , and defined as
 
 $mu_X = \frac{\sum\limits_{I = 1}^N{X_I}}{N}$
 
-[Definition: A deviation from the population mean of a QVAR for a given
-element]{.underline}
+<u>Definition: A deviation from the population mean of a QVAR for a given
+element<u>
 
 A ***deviation from the population*** ***mean of a QVAR*** $X$
 ***for a given element*** is the difference between the value of $X$
@@ -40,7 +40,7 @@ the symbol $D{X_I}$:
 
 $D_{X_I} = {X_I} - {\mu_X}$
 
-[Fact]{.underline}
+<u>Fact<u>
 
 For any finite population and any QVAR $X$, if you find the
 deviation from the population mean of $X$ for every element in the
@@ -65,7 +65,7 @@ or equivalently,
 > $\sum\limits_{I = 1}^N \left(X_I -\mu _X \right) =
 > 0$
 
-[Proof of this fact]{.underline}
+<u>Proof of this fact<u>
 
 We can prove this equality through several steps of algebra. Every step
 is just a rearrangement of terms.
@@ -82,15 +82,15 @@ is just a rearrangement of terms.
 > N{\mu _X}\\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, =
 > 0\end{array}$$
 
-[Definition: The population mean absolute deviation of a
-QVAR]{.underline}
+<u>Definition: The population mean absolute deviation of a
+QVAR<u>
 
 The ***population mean absolute deviation*** ***of a QVAR*** $X$ is
 represented by the symbol $MA{D_X}$, and defined as
 
 $$MA{D_X} = \frac{\sum\limits_{I = 1}^N \left(| X_I - \mu_X \right|)}{N}$$
 
-[Definition: The population variance of a QVAR]{.underline}
+<u>Definition: The population variance of a QVAR<u>
 
 The ***population variance*** ***of a QVAR*** $X$ is represented by the symbol $\sigma_X^2$, and defined as
 
