@@ -62,7 +62,7 @@ $X_1,X_2,...,X_N$ of a QVAR $X$,
 
 or equivalently,
 
-> $\sum\limits_{I = 1}^N {\left( {{X_I} - {\mu _X}} \right)} =
+> $\sum\limits_{I = 1}^N \left(X_I -\mu _X \right) =
 > 0$
 
 [Proof of this fact]{.underline}
@@ -70,14 +70,14 @@ or equivalently,
 We can prove this equality through several steps of algebra. Every step
 is just a rearrangement of terms.
 
-> $$\begin{array}{l}\sum\limits_{I = 1}^N {{D_{{X_I}}}} =
-> \sum\limits_{I = 1}^N {\left( {{X_I} - {\mu _X}} \right)}
+> $$\begin{array}{l}\sum\limits_{I = 1}^N D_{X_I} =
+> \sum\limits_{I = 1}^N {\left( X_I - \mu_X \right)}
 > \\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = \sum\limits_{I
-> = 1}^N {{X_I}} - \sum\limits_{I = 1}^N {{\mu _X}}
+> = 1}^N X_I - \sum\limits_{I = 1}^N \mu_X
 > \\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = \sum\limits_{I
-> = 1}^N {{X_I}} - N{\mu
+> = 1}^N X_I - N{\mu
 > _X}\\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = N\left(
-> {\frac{{\sum\limits_{I = 1}^N {{X_I}} }}{N}} \right) - N{\mu
+> \frac{\sum\limits_{I = 1}^N X_I}{N} \right) - N{\mu
 > _X}\\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, = N{\mu _X} -
 > N{\mu _X}\\\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, =
 > 0\end{array}$$
