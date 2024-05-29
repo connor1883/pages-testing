@@ -34,7 +34,7 @@ Econ 204 // Spring 2024
  </semantics>
 </math>
 
-now testing something that <math display='block'>
+now testing something that <math>
  <semantics>
   <mrow>
    <msqrt>
@@ -51,17 +51,16 @@ now testing something that <math display='block'>
    </msqrt>
    </mrow>
   <annotation encoding='MathType-MTEF'>MathType@MTEF@5@5@+=
-  feaahGart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+  feaahGart1ev3aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
   hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
   4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9
   vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x
   fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaOaaaeaaca
   WGHbWaaWbaaSqabeaacaaIYaaaaOGaey4kaSIaamOyamaaCaaaleqa
-  baGaaGOmaaaaaeqaaaaa@3A92@
+  baGaaGOmaaaaaeqaaaaa@3A93@
   </annotation>
  </semantics>
 </math>
-
 should have been inline
 
 
