@@ -10,11 +10,6 @@ collections:
 markdown: kramdown
 kramdown:
   input: GFM
-  math_engine: mathjax
 
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
+include:
+  - "_includes"
